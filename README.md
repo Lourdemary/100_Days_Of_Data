@@ -43,14 +43,29 @@ My aim is to complete 100DaysOfDataAnalytics in order to get the skills necessar
 
 ### Microsoft Excel
 - [ ] Basic Excel
-   - [ ] Overview
-   - [ ] Syntax
-   - [ ] Ranges
-   - [ ] Fill
-   - [ ] Move CArds
-   - [ ] Add Cells
-   - [ ] Delete Cells
-   - [ ] Undo Redo
-   - [ ] 
+   - [ ] Excel Fundamentals
+   - [ ] Entering and Editing text and formulas
+   - [ ] Working with basic excel functions
+   - [ ] Modifying an excel worksheet
+   - [ ] Formatting data in excel worksheet
+   - [ ] Inserting images and shapes into an excel
+   - [ ] Creating Basic charts in excel
+   - [ ] Printing an excel worksheet
+   - [ ] Working with excel templates
 - [ ] Intermediate Excel
+   - [ ] Working with an excel list
+   - [ ] Working list functions
+   - [ ] Excel Data Validation
+   - [ ] Importing and Exporting Data
+   - [ ] Excel Pivot tables
+   - [ ] Working with excels powerpivot tools
+   - [ ] Working with large sets of excel data
 - [ ] Advanced Excel
+   - [ ]  Working with Excel Conditional functions
+   - [ ]  Excel's lookup
+   - [ ]  Text based function
+   - [ ]  auditing an excel worksheet
+   - [ ]  Protecting excel worksheets and workbooks
+   - [ ]  "What if" tools
+   - [ ]  Automating repetitive tasks in excel with macros
+   
