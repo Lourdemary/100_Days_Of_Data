@@ -15,5 +15,5 @@ I'm coming back after an unsuccessful efforts by publicly committing to the 100D
 
 For Daily updates, follow me on:
    <a href="https://twitter.com/DataNoMadd?t=JPP2dF8c8j7WKTA6n5W2cQ&s=03">
-   <img align ="left" alt ="Mary's Twitter" src="https://img.icons8.com/fluency/48/undefined/twitter.png"/>
+   <img align ="center" alt ="Mary's Twitter" src="https://img.icons8.com/fluency/48/undefined/twitter.png"/>
     </a>
