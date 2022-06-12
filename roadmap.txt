@@ -1,0 +1,11 @@
+Python - Basic operations , list , set , tuples, dictionary, functions, numpy , pandas, matplotlib
+DSA - array, string , searching ,  sorting
+DB - dbms concepts, mysql, postgresql , Nosql- Hbase, cassandra
+SQL - all basic sql operations , joins, groupby, subquery, case-when, window functions
+Bigdata - distributed computation, distributed storage, different file formats- Json, csv, avro, parquet, hive,spark SQL
+BI tools- Tableasu, powerbi, qlik sense
+Data warehousing - olap vs oltp , facts, dimensions, star schema, snowflake schrma, scd, data warehouse optimization
+Advanced excel - data manipulation, functions, formulas, charts, graphs, pivot tableas,  vlookup, macros
+ETL - informatica, talend
+Statistics - descriptive, inferential, probability, data sampling , data distribution
+Soft skills - communication, client interaction, documentation , business and data domain understanding
