@@ -1,1 +1,46 @@
+Devote 3-4 productive hours daily
+Be energetic while learning
+Keep your mind free
+2 hours of study + 2 hours of practice
 
+Part 1 - Basic syntax -2 days
+Basic arithmetic operations
+control and conditional structures
+looping - for, while
+user input
+strings
+integers
+floating values
+typecasting
+
+
+Part 2 - in built data structures - 3 days
+strings and inbuilt functions
+list and boolean variables inbuilt functions
+sets - inbuilt
+dictionaries- inbuilt
+tuples - inbuilt
+functions
+lambda
+iterators and generators
+exception handling and import libraries
+
+
+Part 3- OOPs in all you need -4 days
+start with VS code ide
+classes
+object
+method
+inheritance
+polymorphism
+data abstraction
+encapsulation
+
+
+Part 4- Libraries with python -2 days
+*****Numpy 
+*****Pandas
+*****Matplotlib
+seaborn
+scipy
+focus on performing EDA
