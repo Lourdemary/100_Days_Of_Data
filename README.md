@@ -330,3 +330,16 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
    - [ ] FALSE function
    - [ ] TRUE function
 
+
+
+## Contributors
+
+- Lourde Mary <lourdemary2182000@gmail.com>
+
+---
+
+## License & copyright
+
+(c) Lourde Mary
+
+Licensed under the 
