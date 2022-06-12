@@ -106,7 +106,7 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
    - [ ]  "What if" tools
    - [ ]  Macros
    
-### PowerBI
+### Power BI
  - [ ] Basic charts in Power BI 
    - [ ] Basic Charts in Power BI Desktop
    - [ ] Column Chart in Power BI
