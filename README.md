@@ -40,6 +40,40 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 - [ ] [SQL](#SQL)
 - [ ] [MongoDB](#MongoDB)
 
+### Statistics
+- [ ] Introduction
+- [ ] Different types of Statistics
+- [ ] Population vs Sample
+- [ ] Mean, Median and Mode
+- [ ] Variance, Standard Deviation
+- [ ] Sample Variance why n-1
+- [ ] Standard Deviation
+- [ ] Variables
+- [ ] Random Variables
+- [ ] Percentiles & quartiles
+- [ ] 5 number summary
+- [ ] Histograms
+- [ ] Application Of Zscore
+- [ ] Basics Of Probability
+- [ ] Addition Rule In Probability
+- [ ] Multiplication rule in probability
+- [ ] Permutation
+- [ ] Combination
+- [ ] Log Normal Distribution
+- [ ] Central Limit theorem
+- [ ] Statistics - Left Skewed And Right Skewed Distribution And Relation With Mean, Median And Mode
+- [ ] Covariance
+- [ ] Pearson And Spearman Rank Correlation
+- [ ] What is P Value
+- [ ] What is Confidence Intervals
+- [ ] How To Perform Hypothesis Testing - Confidence IntervalZ Test Statistics Derive Conclusion
+- [ ] Hypothesis testing part 2
+- [ ] Hypothesis testing part 3
+- [ ] Finalizing statistics
+
+
+
+
 
 ### Microsoft Excel
 - [ ] Basic Excel
