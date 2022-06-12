@@ -26,6 +26,9 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 4. Making connections
 5. Ease of access for me in the future
 
+## Resources
+- Statistics pdf- https://greenteapress.com/thinkstats/thinkstats.pdf
+
 
 ## Goals
 
