@@ -32,8 +32,8 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 ## Goals
 
-- [ ] [Statistics](#Statistics)
 - [ ] [Microsoft Excel](#Microsoft-Excel)
+- [ ] [Statistics](#Statistics)
 - [ ] [Power BI](#Power-Bi)
 - [ ] [Python](#Python)
 - [ ] [Numpy](#Numpy)
@@ -42,6 +42,34 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 - [ ] [Seaborn](#Seaborn)
 - [ ] [SQL](#SQL)
 - [ ] [MongoDB](#MongoDB)
+
+### Microsoft Excel
+- [ ] Basic Excel
+   - [ ] Excel Fundamentals
+   - [ ] Entering and editing text and formulas
+   - [ ] Working with basic Excel functions
+   - [ ] Modifying an Excel worksheet
+   - [ ] Formatting data
+   - [ ] Inserting images and shapes
+   - [ ] Creating Basic charts
+   - [ ] Printing an Excel worksheet
+   - [ ] Working with Excel templates
+- [ ] Intermediate Excel
+   - [ ] Working with list
+   - [ ] List functions
+   - [ ] Data Validation
+   - [ ] Importing and Exporting Data
+   - [ ] Excel Pivot tables
+   - [ ] PowerPivot tools
+   - [ ] Working with large sets of Excel data
+- [ ] Advanced Excel
+   - [ ]  Excel Conditional functions
+   - [ ]  Lookup
+   - [ ]  Text based function
+   - [ ]  Auditing an Excel worksheet
+   - [ ]  Protecting Excel worksheets and workbooks
+   - [ ]  "What if" tools
+   - [ ]  Macros
 
 ### Statistics
 - [ ] Introduction
@@ -74,37 +102,6 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 - [ ] Hypothesis testing part 3
 - [ ] Finalizing statistics
 
-
-
-
-
-### Microsoft Excel
-- [ ] Basic Excel
-   - [ ] Excel Fundamentals
-   - [ ] Entering and editing text and formulas
-   - [ ] Working with basic Excel functions
-   - [ ] Modifying an Excel worksheet
-   - [ ] Formatting data
-   - [ ] Inserting images and shapes
-   - [ ] Creating Basic charts
-   - [ ] Printing an Excel worksheet
-   - [ ] Working with Excel templates
-- [ ] Intermediate Excel
-   - [ ] Working with list
-   - [ ] List functions
-   - [ ] Data Validation
-   - [ ] Importing and Exporting Data
-   - [ ] Excel Pivot tables
-   - [ ] PowerPivot tools
-   - [ ] Working with large sets of Excel data
-- [ ] Advanced Excel
-   - [ ]  Excel Conditional functions
-   - [ ]  Lookup
-   - [ ]  Text based function
-   - [ ]  Auditing an Excel worksheet
-   - [ ]  Protecting Excel worksheets and workbooks
-   - [ ]  "What if" tools
-   - [ ]  Macros
    
 ### Power BI
  - [ ] Basic charts in Power BI 
