@@ -1,4 +1,7 @@
 # 100_Days_Of_Data
+<p align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653227082819/onDhiRk0o.png" width="350" title="hover text">
+</p>
 
 I've decided to participate in the 100DaysofData Challenge, in which I'll spend each day focusing on problem solving and personal projects in order to enhance my abilities and push my limits.
 
