@@ -342,4 +342,4 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 (c) Lourde Mary
 
-Licensed under the 
+Licensed under the [MIT License](LICENSE.md).
