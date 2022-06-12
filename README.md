@@ -1,12 +1,12 @@
-# 100_Days_Of_DataAnalytics
+# 100_Days_Of_Data
 
-I've decided to participate in the 100DaysofDataAnalytics Challenge, in which I'll spend each day focusing on problem solving and personal projects in order to enhance my abilities and push my limits.
+I've decided to participate in the 100DaysofData Challenge, in which I'll spend each day focusing on problem solving and personal projects in order to enhance my abilities and push my limits.
 
-I'm coming back after an unsuccessful efforts by publicly committing to the 100DaysOfDataAnalytics Challenge, which begins today!
+I'm coming back after an unsuccessful efforts by publicly committing to the 100DaysOfData Challenge, which begins today!
 
 ### I'm going to stick to two main principles:
 1. Spend at least an hour learning every day for the following 100 days.
-2. Use the hashtag #100DaysOfDataAnalytics to tweet your progress every day.
+2. Use the hashtag #100DaysOfData to tweet your progress every day.
 
 
 ### My Exceptions: 
@@ -19,7 +19,7 @@ For Daily updates, follow me on:
     </a>
 
 
-My aim is to complete 100DaysOfDataAnalytics in order to get the skills necessary to become an entry-level data analyst by: 
+My aim is to complete 100DaysOfData in order to get the skills necessary to become an entry-level data analyst by: 
 1. Documenting my course progress 
 2. Showcasing my abilities
 3. Assembling the materials
