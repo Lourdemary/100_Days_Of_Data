@@ -36,7 +36,7 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 ## Goals
 
-- [ ] [Microsoft Excel](#Microsoft-Excel)
+- [ ] [Microsoft Excel](Excel.md)
 - [ ] [Statistics](#Statistics)
 - [ ] [Power BI](#Power-Bi)
 - [ ] [Python](#Python)
