@@ -36,16 +36,16 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 ## Goals
 
-- [ ] [Microsoft Excel](Excel.md)
-- [ ] [Statistics](#Statistics)
-- [ ] [Power BI](#Power-Bi)
-- [ ] [Python](#Python)
-- [ ] [Numpy](#Numpy)
-- [ ] [Pandas](#Pandas)
-- [ ] [Matplotlib](#Matplotlib)
-- [ ] [Seaborn](#Seaborn)
-- [ ] [SQL](#SQL)
-- [ ] [MongoDB](#MongoDB)
+- Microsoft Excel
+- Statistics
+- Power BI
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- SQL
+- MongoDB
 
 
 ## Log of my Day-to-Day Activities
