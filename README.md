@@ -50,7 +50,8 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 ## Log of my Day-to-Day Activities
 
-Track my daily activities [here](Log.md)
+Track my daily activities [here](log.md)
+
 
 ## Contributors
 
