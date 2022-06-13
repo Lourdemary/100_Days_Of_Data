@@ -1,5 +1,10 @@
 
 # 100DaysOfData Progress
 
-## Day 1 
-*  
+### Microsoft Excel
+
+| Day  | Description  | Article   | Update link  | Resource  |
+|---|---|---|---|---|
+| `Day 1`  | Introduction and basic shortcuts  | link  |  link | link  |
+|   |   |   |   |   |
+|   |   |   |   |   |
