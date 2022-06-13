@@ -1,5 +1,5 @@
 
-# 100DaysOfDataAnalytics Progress
+# 100DaysOfData Progress
 
 ## Day 1 
-- 
+*  
