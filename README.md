@@ -31,6 +31,7 @@ My aim is to complete 100DaysOfData in order to get the skills necessary to beco
 
 ## Resources
 - Statistics pdf- https://greenteapress.com/thinkstats/thinkstats.pdf
+- Excel pdf - http://excelpro.ir/wp-content/uploads/2015/10/Excel_2010_For_Dummies.pdf
 
 
 ## Goals
